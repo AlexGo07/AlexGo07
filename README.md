@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A focus app for mobile**
 
-- 👨‍💻 I’m currently learning web development, cloud development, Cybersecurity and AI **CS50AI, CS50Web, CS50 Cybersecurity,**
+- 👨‍💻 I’m currently learning web development, cloud development, Cybersecurity
 
 - 📧 How to reach me **gorganalexandru3@gmail.com**
 
