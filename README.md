@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I am a very curios person, eager to learn more about anything technology related**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
